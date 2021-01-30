@@ -74,4 +74,4 @@ MIT © Steven Lambe
 
 ## Originally By
 
-MIT @ Luke Childs
+MIT © Luke Childs
