@@ -70,4 +70,8 @@ docker run -v /home/username/vertcoin:/data -p 5889:5889 lukechilds/vertcoind:v0
 
 ## License
 
-MIT © Luke Childs
+MIT © Steven Lambe
+
+## Originally By
+
+MIT @ Luke Childs
